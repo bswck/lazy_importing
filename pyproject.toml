@@ -28,7 +28,7 @@ python = ">=3.8,<3.13"
 # Instead of changing this particular file, you might want to alter the template:
 # https://github.com/bswck/skeleton/tree/0.0.2rc-116-gaf71a4b/pyproject.toml
 mypy = "^1.7.0"
-ruff = "^0.1.12"
+ruff = "^0.3.4"
 towncrier = "^23.11.0"
 coverage = "^7.4.0"
 pytest = "^7.4.3"
